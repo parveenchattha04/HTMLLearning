@@ -1,0 +1,28 @@
+.main
+{
+	height:800px;
+}
+.block-one
+{
+	height:300px;
+	background-color:green;
+	margin:10px;
+}
+.block-two
+{
+	height:300px;	
+	background-color:blue;
+	margin:10px;
+}
+.block-three
+{
+	height:300px;
+	background-color:yellow;
+	margin:10px;
+}
+.block-four
+{
+	height:300px;
+	background-color:pink;
+	margin:10px;
+}

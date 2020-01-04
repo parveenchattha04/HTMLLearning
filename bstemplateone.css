@@ -1,0 +1,37 @@
+.main
+{
+	height:400px;
+}
+.block-one
+{
+	height:400px;
+	background-color:white;
+	text-align:center;
+}
+.first
+{
+	height:375px;
+	background-color:green;
+}
+.block-two
+{
+	height:400px;	
+	background-color:white;
+	text-align:center;
+}
+.second
+{
+	height:375px;
+	background-color:green;
+}
+.footer
+{
+	height:100px;
+	background-color:white;
+	text-align:center;
+}
+.base
+{
+	height:80px;
+	background-color:yellow;
+}

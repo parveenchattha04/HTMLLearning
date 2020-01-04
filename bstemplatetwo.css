@@ -1,0 +1,78 @@
+.main
+{
+	height:2000px;
+}
+.navbar
+{
+	height:100px;
+	background-color:blue;
+}
+.banner
+{
+	height:300px;
+	background-color:green;
+}
+.photos
+{
+	height:500px;
+	background-color:white;
+}
+.box-one
+{
+	height:200px;	
+	background-color:white;
+}
+.one
+{
+	height:200px;
+	background-color:pink;
+}
+.two
+{
+	height:200px;
+	background-color:blue;
+}
+.three
+{
+	height:200px;
+	background-color:yellow;
+}
+.four
+{
+	height:200px;
+	background-color:maroon;
+}
+.box-two
+{
+	height:200px;	
+	background-color:white;
+}
+.five
+{
+	height:200px;
+	background-color:cyan;
+}
+.six
+{
+	height:200px;
+	background-color:gray;
+}
+.seven
+{
+	height:200px;
+	background-color:yellow;
+}
+.eight
+{
+	height:200px;
+	background-color:pink;
+}
+
+.footer
+{
+	height:200px;
+	background-color:blue;
+}
+.pt-bottom{
+	padding-bottom: 10px;
+}
